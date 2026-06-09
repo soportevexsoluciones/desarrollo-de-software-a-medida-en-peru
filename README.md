@@ -12,4 +12,5 @@ Desarrollo de Software a Medida en Perú para empresas que buscan automatizar pr
 - Desarrollo de Software con IA
 
 ## Más información
+https://www.vexsoluciones.com/desarrollo-de-software-a-medida-en-lima-peru/ 
 https://www.vexsoluciones.com/desarrollo-de-software-a-medida/
