@@ -1,4 +1,4 @@
-# Desarrollo de Software a Medida en Perú | Empresa de Desarrollo de Software - Vex Soluciones
+# Desarrollo de Software a Medida | Empresa de Desarrollo de Software - Vex Soluciones
 
 Desarrollo de Software a Medida en Perú para empresas que buscan automatizar procesos, mejorar la productividad y acelerar su transformación digital mediante soluciones tecnológicas innovadoras.
 
@@ -100,4 +100,4 @@ Implementamos soluciones de Inteligencia Artificial para:
 
 📧 contacto@vexsoluciones.com
 
-🏢 Vex Soluciones – Empresa de Desarrollo de Software en Perú
+🏢 Vex Soluciones – Empresa de Desarrollo de Software
